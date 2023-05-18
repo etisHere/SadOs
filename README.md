@@ -78,6 +78,7 @@ and etc, this is just to get a idea where the os is at.
     - asm_io.s
     - main.c
 ~```
+```
 
 ## BUT ET WHAT ARE THESE FOLDERS FOR?
 
